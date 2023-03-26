@@ -1,4 +1,4 @@
-package sample14;
+package sample14_continue;
 
 import java.util.Arrays;
 import java.util.Scanner;

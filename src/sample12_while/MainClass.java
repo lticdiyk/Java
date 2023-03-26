@@ -1,4 +1,4 @@
-package sample12;
+package sample12_while;
 
 public class MainClass {
 

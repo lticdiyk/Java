@@ -1,4 +1,4 @@
-package sample05;
+package sample05_operator;
 
 public class MainClass {
 

@@ -1,4 +1,4 @@
-package sample04;
+package sample04_casting;
 
 public class MainClass {
 	public static void main(String[] args) {

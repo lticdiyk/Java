@@ -1,4 +1,4 @@
-package sample13;
+package sample13_break;
 
 public class MainClass {
 	public static void main(String[] args) {

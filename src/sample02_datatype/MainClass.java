@@ -1,4 +1,4 @@
-package sample02;
+package sample02_datatype;
 
 public class MainClass {
 
