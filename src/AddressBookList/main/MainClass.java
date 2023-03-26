@@ -2,7 +2,7 @@ package AddressBookList.main;
 
 import java.util.Scanner;
 
-import dao.AddressDao;
+import AddressBookList.dao.AddressDao;
 
 public class MainClass {
 
